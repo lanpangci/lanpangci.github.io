@@ -4,4 +4,5 @@ db.jsonhexo d
 *.log
 node_modules/
 .deploy*/
+public
 _multiconfig.yml
